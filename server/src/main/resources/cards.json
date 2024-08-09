@@ -1,0 +1,1436 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "cost": {
+        "blue": 2,
+        "red": 2
+      },
+      "bonus": {
+        "green": 1
+      }
+    },
+    {
+      "id": 2,
+      "cost": {
+        "blue": 1,
+        "white": 2
+      },
+      "bonus": {
+        "green": 1
+      }
+    },
+    {
+      "id": 3,
+      "cost": {
+        "red": 3
+      },
+      "bonus": {
+        "green": 1
+      }
+    },
+    {
+      "id": 4,
+      "cost": {
+        "brown": 4
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 1
+    },
+    {
+      "id": 5,
+      "cost": {
+        "white": 1,
+        "blue": 1,
+        "red": 1,
+        "brown": 1
+      },
+      "bonus": {
+        "green": 1
+      }
+    },
+    {
+      "id": 6,
+      "cost": {
+        "white": 1,
+        "blue": 1,
+        "red": 1,
+        "brown": 2
+      },
+      "bonus": {
+        "green": 1
+      }
+    },
+    {
+      "id": 7,
+      "cost": {
+        "white": 1,
+        "blue": 3,
+        "green": 1
+      },
+      "bonus": {
+        "green": 1
+      }
+    },
+    {
+      "id": 8,
+      "cost": {
+        "blue": 1,
+        "red": 2,
+        "brown": 2
+      },
+      "bonus": {
+        "green": 1
+      }
+    },
+    {
+      "id": 9,
+      "cost": {
+        "blue": 2,
+        "green": 1
+      },
+      "bonus": {
+        "red": 1
+      }
+    },
+    {
+      "id": 10,
+      "cost": {
+        "white": 4
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 1
+    },
+    {
+      "id": 11,
+      "cost": {
+        "white": 3
+      },
+      "bonus": {
+        "red": 1
+      }
+    },
+    {
+      "id": 12,
+      "cost": {
+        "white": 2,
+        "green": 1,
+        "brown": 2
+      },
+      "bonus": {
+        "red": 1
+      }
+    },
+    {
+      "id": 13,
+      "cost": {
+        "white": 2,
+        "blue": 1,
+        "green": 1,
+        "brown": 1
+      },
+      "bonus": {
+        "red": 1
+      }
+    },
+    {
+      "id": 14,
+      "cost": {
+        "white": 1,
+        "blue": 1,
+        "green": 1,
+        "brown": 1
+      },
+      "bonus": {
+        "red": 1
+      }
+    },
+    {
+      "id": 15,
+      "cost": {
+        "white": 1,
+        "red": 1,
+        "brown": 3
+      },
+      "bonus": {
+        "red": 1
+      }
+    },
+    {
+      "id": 16,
+      "cost": {
+        "white": 2,
+        "red": 2
+      },
+      "bonus": {
+        "red": 1
+      }
+    },
+    {
+      "id": 17,
+      "cost": {
+        "white": 2,
+        "green": 2
+      },
+      "bonus": {
+        "brown": 1
+      }
+    },
+    {
+      "id": 18,
+      "cost": {
+        "green": 2,
+        "red": 1
+      },
+      "bonus": {
+        "brown": 1
+      }
+    },
+    {
+      "id": 19,
+      "cost": {
+        "green": 3
+      },
+      "bonus": {
+        "brown": 1
+      }
+    },
+    {
+      "id": 20,
+      "cost": {
+        "blue": 4
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 1
+    },
+    {
+      "id": 21,
+      "cost": {
+        "white": 1,
+        "blue": 2,
+        "green": 1,
+        "red": 1
+      },
+      "bonus": {
+        "brown": 1
+      }
+    },
+    {
+      "id": 22,
+      "cost": {
+        "white": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      "bonus": {
+        "brown": 1
+      }
+    },
+
+    {
+      "id": 23,
+      "cost": {
+        "brown": 1,
+        "green": 1,
+        "red": 3
+      },
+      "bonus": {
+        "brown": 1
+      }
+    },
+    {
+      "id": 24,
+      "cost": {
+        "white": 2,
+        "blue": 2,
+        "red": 1
+      },
+      "bonus": {
+        "brown": 1
+      }
+    },
+    {
+      "id": 25,
+      "cost": {
+        "brown": 2,
+        "green": 2
+      },
+      "bonus": {
+        "blue": 1
+      }
+    },
+    {
+      "id": 26,
+      "cost": {
+        "white": 1,
+        "brown": 2
+      },
+      "bonus": {
+        "blue": 1
+      }
+    },
+
+    {
+      "id": 27,
+      "cost": {
+        "red": 4
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 1
+    },
+    {
+      "id": 28,
+      "cost": {
+        "brown": 3
+      },
+      "bonus": {
+        "blue": 1
+      }
+    },
+    {
+      "id": 29,
+      "cost": {
+        "white": 1,
+        "brown": 1,
+        "green": 1,
+        "red": 1
+      },
+      "bonus": {
+        "blue": 1
+      }
+    },
+    {
+      "id": 30,
+      "cost": {
+        "white": 1,
+        "brown": 1,
+        "green": 1,
+        "red": 2
+      },
+      "bonus": {
+        "blue": 1
+      }
+    },
+
+    {
+      "id": 31,
+      "cost": {
+        "blue": 1,
+        "green": 3,
+        "red": 1
+      },
+      "bonus": {
+        "blue": 1
+      }
+    },
+
+    {
+      "id": 32,
+      "cost": {
+        "white": 1,
+        "green": 2,
+        "red": 2
+      },
+      "bonus": {
+        "blue": 1
+      }
+    },
+
+    {
+      "id": 33,
+      "cost": {
+        "blue": 2,
+        "brown": 2
+      },
+      "bonus": {
+        "white": 1
+      }
+    },
+
+    {
+      "id": 34,
+      "cost": {
+        "red": 2,
+        "brown": 1
+      },
+      "bonus": {
+        "white": 1
+      }
+    },
+    {
+      "id": 35,
+      "cost": {
+        "green": 4
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 1
+    },
+
+    {
+      "id": 36,
+      "cost": {
+        "blue": 3
+      },
+      "bonus": {
+        "white": 1
+      }
+    },
+    {
+      "id": 37,
+      "cost": {
+        "blue": 2,
+        "green": 2,
+        "brown": 1
+      },
+      "bonus": {
+        "white": 1
+      }
+    },
+
+    {
+      "id": 38,
+      "cost": {
+        "blue": 1,
+        "white": 3,
+        "brown": 1
+      },
+      "bonus": {
+        "white": 1
+      }
+
+    },
+
+    {
+      "id": 39,
+      "cost": {
+        "blue": 1,
+        "green": 2,
+        "red": 1,
+        "brown": 1
+      },
+      "bonus": {
+        "white": 1
+      }
+    },
+
+    {
+      "id": 40,
+      "cost": {
+        "blue": 1,
+        "green": 1,
+        "red": 1,
+        "brown": 1
+      },
+      "bonus": {
+        "white": 1
+      }
+    },
+
+    {
+      "id": 41,
+      "cost": {
+        "blue": 2,
+        "white": 3,
+        "green": 2
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 1
+
+    },
+
+    {
+      "id": 42,
+      "cost": {
+        "red": 3,
+        "green": 5
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 2
+
+    },
+
+    {
+      "id": 43,
+      "cost": {
+        "white": 5
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 2
+
+    },
+
+    {
+      "id": 44,
+      "cost": {
+        "brown": 6
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 3
+
+    },
+
+    {
+      "id": 45,
+      "cost": {
+        "blue": 1,
+        "red": 2,
+        "green": 4
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 2
+
+    },
+
+    {
+      "id": 46,
+      "cost": {
+        "brown": 2,
+        "white": 3,
+        "green": 3
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 1
+
+    },
+
+    {
+      "id": 47,
+      "cost": {
+        "blue": 5
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 2
+
+    },
+
+    {
+      "id": 48,
+      "cost": {
+        "blue": 6
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 3
+
+    },
+
+    {
+      "id": 49,
+      "cost": {
+        "blue": 2,
+        "red": 3,
+        "green": 2
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 1
+
+    },
+
+    {
+      "id": 50,
+      "cost": {
+        "blue": 2,
+        "brown": 3,
+        "green": 3
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 1
+    },
+
+    {
+      "id": 51,
+      "cost": {
+        "blue": 3,
+        "white": 5
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 2
+
+    },
+
+    {
+      "id": 52,
+      "cost": {
+        "red": 1,
+        "white": 2,
+        "brown": 4
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 2
+    },
+
+    {
+      "id": 53,
+      "cost": {
+        "brown": 1,
+        "white": 4,
+        "blue": 2
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 2
+
+    },
+
+    {
+      "id": 54,
+      "cost": {
+        "red": 3,
+        "white": 3,
+        "green": 2
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 1
+
+    },
+    {
+      "id": 55,
+      "cost": {
+        "blue": 3,
+        "white": 2,
+        "brown": 2
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 1
+
+    },
+
+
+    {
+      "id": 56,
+      "cost": {
+        "green": 6
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 3
+
+    },
+
+    {
+      "id": 57,
+      "cost": {
+        "brown": 5
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 2
+
+    },
+    {
+      "id": 58,
+      "cost": {
+        "red": 6
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 3
+
+    },
+
+    {
+      "id": 59,
+      "cost": {
+        "green": 5
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 2
+
+    },
+    {
+      "id": 60,
+      "cost": {
+        "blue": 5,
+        "green": 3
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 2
+
+    },
+
+    {
+      "id": 61,
+      "cost": {
+        "red": 2,
+        "white": 2,
+        "brown": 3
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 1
+
+    },
+
+    {
+      "id": 62,
+      "cost": {
+        "blue": 3,
+        "red": 2,
+        "brown": 3
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 1
+
+    },
+
+    {
+      "id": 63,
+      "cost": {
+        "blue": 4,
+        "white": 1,
+        "green": 2
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 2
+
+    },
+
+    {
+      "id": 64,
+      "cost": {
+        "white": 3,
+        "brown": 5
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 2
+
+    },
+
+    {
+      "id": 65,
+      "cost": {
+        "brown": 2,
+        "red": 4,
+        "green": 1
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 2
+
+    },
+    {
+      "id": 66,
+      "cost": {
+        "brown": 3,
+        "red": 5
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 2
+
+    },
+
+    {
+      "id": 67,
+      "cost": {
+        "red": 5
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 2
+
+    },
+
+    {
+      "id": 68,
+      "cost": {
+        "white": 6
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 3
+
+    },
+
+    {
+      "id": 69,
+      "cost": {
+        "blue": 3,
+        "red": 3,
+        "white": 2
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 1
+
+    },
+
+    {
+      "id": 70,
+      "cost": {
+        "brown": 2,
+        "red": 2,
+        "green": 3
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 1
+
+    },
+
+    {
+      "id": 71,
+      "cost": {
+        "blue": 6,
+        "white": 3,
+        "green": 3
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 4
+
+    },
+
+    {
+      "id": 72,
+      "cost": {
+        "blue": 7
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 4
+
+    },
+
+    {
+      "id": 73,
+      "cost": {
+        "blue": 7,
+        "green": 3
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 5
+
+    },
+
+    {
+      "id": 74,
+      "cost": {
+        "blue": 3,
+        "white": 5,
+        "red": 3,
+        "brown": 3
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 3
+
+    },
+
+    {
+      "id": 75,
+      "cost": {
+        "green": 7
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 4
+
+    },
+
+    {
+      "id": 76,
+      "cost": {
+        "blue": 5,
+        "white": 3,
+        "green": 3,
+        "brown": 3
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 3
+
+    },
+
+    {
+      "id": 77,
+      "cost": {
+        "green": 7,
+        "red": 3
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 5
+
+    },
+
+    {
+      "id": 78,
+      "cost": {
+        "blue": 3,
+        "red": 3,
+        "green": 6
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 4
+    },
+
+    {
+      "id": 79,
+      "cost": {
+        "brown": 3,
+        "red": 6,
+        "green": 3
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 4
+    },
+
+    {
+      "id": 80,
+      "cost": {
+        "red": 7
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 4
+
+    },
+
+    {
+      "id": 81,
+      "cost": {
+        "red": 7,
+        "brown": 3
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 5
+
+    },
+    {
+      "id": 82,
+      "cost": {
+        "blue": 3,
+        "white": 3,
+        "green": 5,
+        "red": 3
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 3
+    },
+
+    {
+      "id": 83,
+      "cost": {
+        "blue": 3,
+        "white": 7
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 5
+
+    },
+
+    {
+      "id": 84,
+      "cost": {
+        "blue": 3,
+        "white": 6,
+        "brown": 3
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 4
+
+    },
+
+    {
+      "id": 85,
+      "cost": {
+        "red": 3,
+        "white": 3,
+        "green": 3,
+        "brown": 5
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 3
+
+    },
+
+    {
+      "id": 86,
+      "cost": {
+        "white": 7
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 4
+
+    },
+
+    {
+      "id": 87,
+      "cost": {
+        "blue": 3,
+        "red": 5,
+        "green": 3,
+        "brown": 3
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 3
+
+    },
+    {
+      "id": 88,
+      "cost": {
+        "white": 3,
+        "brown": 7
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 5
+
+    },
+    {
+      "id": 89,
+      "cost": {
+        "brown": 7
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 4
+
+    },
+
+    {
+      "id": 90,
+      "cost": {
+        "white": 3,
+        "red": 3,
+        "brown": 6
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 4
+
+    },
+
+    {
+      "id": 91,
+      "cost": {
+        "red": 3,
+        "blue": 2
+      },
+       "special": ["clone"]
+    },
+
+    {
+      "id": 92,
+      "cost": {
+        "green": 3
+      },
+      "bonus": {
+        "gold": 2
+      }
+    },
+
+    {
+      "id": 93,
+      "cost": {
+        "white": 3,
+        "red": 2
+      },
+       "special": ["clone"]
+    },
+
+    {
+      "id": 94,
+      "cost": {
+        "blue": 3
+      },
+      "bonus": {
+        "gold": 2
+      }
+
+    },
+
+    {
+      "id": 95,
+      "cost": {
+        "white": 3
+      },
+      "bonus": {
+        "gold": 2
+      }
+
+    },
+
+    {
+      "id": 96,
+      "cost": {
+        "brown": 3
+      },
+      "bonus": {
+        "gold": 2
+      }
+    },
+
+    {
+      "id": 97,
+      "cost": {
+        "blue": 3,
+        "green": 2
+      },
+       "special": ["clone"]
+    },
+
+    {
+      "id": 98,
+      "cost": {
+        "brown": 2,
+        "green": 3
+      },
+       "special": ["clone"]
+    },
+
+    {
+      "id": 99,
+      "cost": {
+        "brown": 3,
+        "white": 2
+      },
+       "special": ["clone"]
+    },
+
+    {
+      "id": 100,
+      "cost": {
+        "red": 3
+      },
+      "bonus": {
+        "gold": 2
+      }
+
+    },
+
+    {
+      "id": 101,
+      "cost": {
+        "red": 2,
+        "white": 2,
+        "blue": 2,
+        "brown":2
+      },
+      "bonus": {
+        "green": 1
+      },
+      "special": ["reserve_noble"],
+      "prestige_points": 1
+    },
+
+    {
+      "id": 102,
+      "cost": {
+        "green": 2,
+        "white": 2,
+        "blue": 2,
+        "brown":2
+      },
+      "bonus": {
+        "red": 1
+      },
+      "special": ["reserve_noble"],
+      "prestige_points": 1
+
+    },
+
+    {
+      "id": 103,
+      "cost": {
+        "green": 4,
+        "red": 3,
+        "brown":1
+      },
+       "special": ["clone", "cascade_1"]
+    },
+
+    {
+      "id": 104,
+      "cost": {
+        "white": 4,
+        "blue": 3,
+        "brown":1
+      },
+      "special": ["clone", "cascade_1"]
+    },
+
+    {
+      "id": 105,
+      "cost": {
+        "white": 4,
+        "red": 3
+      },
+      "bonus": {
+        "green": 2
+      }
+
+    },
+
+    {
+      "id": 106,
+      "cost": {
+        "green": 4,
+        "brown": 3
+      },
+      "bonus": {
+        "red": 2
+      }
+
+    },
+
+    {
+      "id": 107,
+      "cost": {
+        "blue": 3,
+        "red": 4
+      },
+      "bonus": {
+        "brown": 2
+      }
+
+    },
+
+    {
+      "id": 108,
+      "cost": {
+        "blue": 2,
+        "green": 2,
+        "red": 2,
+        "brown": 2
+      },
+      "bonus": {
+        "white": 1
+      },
+      "special": ["reserve_noble"]
+    },
+
+    {
+      "id": 109,
+      "cost": {
+        "brown": 4,
+        "white": 3
+      },
+      "bonus": {
+        "blue": 2
+      }
+
+    },
+
+    {
+      "id": 110,
+      "cost": {
+        "blue": 4,
+        "green": 3
+      },
+      "bonus": {
+        "white": 2
+      }
+
+    },
+
+    {
+      "id": 111,
+      "cost": {
+        "blue": 1,
+        "red": 3,
+        "green": 6
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "special": ["cascade_2"]
+    },
+    {
+      "id": 112,
+      "cost": {
+        "red": 6,
+        "green": 1,
+        "brown": 3
+      },
+      "bonus": {
+        "green": 1
+      },
+      "special": ["cascade_2"]
+    },
+    {
+      "id": 113,
+      "cost": {
+        "red": 1,
+        "white": 3,
+        "brown": 6
+      },
+      "bonus": {
+        "red": 1
+      },
+      "special": ["cascade_2"]
+    },
+    {
+      "id": 114,
+      "cost": {
+        "blue": 3,
+        "white": 6,
+        "brown": 1
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "special": ["cascade_2"]
+    },
+    {
+      "id": 115,
+      "cost": {
+        "green": 2
+      },
+      "bonus": {
+        "red": 1
+      },
+      "prestige_points": 3
+    },
+    {
+      "id": 116,
+      "cost": {
+        "brown": 2
+      },
+      "bonus": {
+        "white": 1
+      },
+      "prestige_points": 3
+    },
+    {
+      "id": 117,
+      "cost": {
+        "white": 2
+      },
+      "bonus": {
+        "blue": 1
+      },
+      "prestige_points": 3
+    },
+    {
+      "id": 118,
+      "cost": {
+        "blue": 6,
+        "green": 3,
+        "white": 1
+      },
+      "bonus": {
+        "white": 1
+      },
+      "special": ["cascade_2"]
+    },
+    {
+      "id": 119,
+      "cost": {
+        "blue": 2
+      },
+      "bonus": {
+        "green": 1
+      },
+      "prestige_points": 3
+    },
+    {
+      "id": 120,
+      "cost": {
+        "red": 2
+      },
+      "bonus": {
+        "brown": 1
+      },
+      "prestige_points": 3
+    }
+  ],
+  "color_map": {
+    "green": [1, 40],
+    "yellow": [41, 70],
+    "blue": [71, 90],
+    "red1": [91, 100],
+    "red2": [101, 110],
+    "red3": [111, 120]
+  }
+}
